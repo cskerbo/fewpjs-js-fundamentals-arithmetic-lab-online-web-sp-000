@@ -7,5 +7,4 @@ const multiply = num1 * num2
 let random = Math.random() + 1
 
 //
-const num = 16
-const mod = (num %= 6)
+const mod = (16 %= 6)
