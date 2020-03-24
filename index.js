@@ -8,4 +8,4 @@ let random = Math.random() + 1
 
 //
 const num = 16
-const mod = num %= 6
+const mod = (num %= 6)
